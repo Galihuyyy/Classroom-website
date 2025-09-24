@@ -51,11 +51,11 @@ npm i motion
 ```bash
 npm install @mui/material @emotion/react @emotion/styled
 ```
-
-Run this project in localhost
 ```bash
 npm install @fontsource/roboto
 ```
+
+Run this project in localhost
 ```bash
 npm run dev
 ```
