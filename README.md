@@ -30,6 +30,10 @@ Classroom-website/
 
 ## Cara Menjalankan
 
+Clone project ini
+```bash
+git clone https://github.com/Galihuyyy/Classroom-website.git
+```
 
 Masuk ke folder `Classroom-website`:
 
